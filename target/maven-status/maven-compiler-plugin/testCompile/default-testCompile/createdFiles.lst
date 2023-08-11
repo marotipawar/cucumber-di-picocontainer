@@ -1,0 +1,4 @@
+com\maroti\dataTables\RegisterDataTable.class
+com\maroti\di\DInjection.class
+com\maroti\AppTest.class
+com\maroti\steps\RegisterSteps.class

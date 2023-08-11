@@ -1,0 +1,5 @@
+com\maroti\driver\WebDriverManager.class
+com\maroti\page\RegisterPage.class
+com\maroti\locators\RegisterLocators.class
+com\maroti\model\Register.class
+com\maroti\driver\WebDriverManager$1.class
